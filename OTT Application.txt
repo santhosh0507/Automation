@@ -1,0 +1,4 @@
+1. Paywall
+2. Logged in user
+3. Video player
+3. Audio player
